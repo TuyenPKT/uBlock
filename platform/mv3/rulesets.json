@@ -647,5 +647,29 @@
       "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt"
     ],
     "homeURL": "https://abpvn.com/"
+  },
+  {
+    "id": "vie-2",
+    "group": "regions",
+    "lang": "vi",
+    "name": "🇻🇳vn: Tuyen VIP Filters",
+    "tags": "ads vietnamese việt",
+    "enabled": true,
+    "urls": [
+      "https://abpvn.com/vip/tuyen9xvn.txt?ublock"
+    ],
+    "homeURL": "https://abpvn.com/"
+  },
+  {
+    "id": "vie-3",
+    "group": "regions",
+    "lang": "vi",
+    "name": "🇻🇳vn: Tuyen Host Block Ads",
+    "tags": "ads vietnamese việt",
+    "enabled": true,
+    "urls": [
+      "https://raw.githubusercontent.com/TuyenPKT/Host-block-ads/refs/heads/main/hosts"
+    ],
+    "homeURL": "https://github.com/TuyenPKT/Host-block-ads"
   }
 ]
